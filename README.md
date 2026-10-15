@@ -46,3 +46,5 @@ search `Bar.qml` for `autohide` to find them all.
 ## License
 
 MIT. Based on the Omarchy bar; see [LICENSE](LICENSE).
+
+Built with [Claude Code](https://claude.com/claude-code).
