@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "ynnad.autohide-bar",
+  "name": "Auto-hide Bar",
+  "version": "1.0.0",
+  "author": "ynnad",
+  "description": "The Omarchy status bar with Windows-style auto-hide: it slides away and reappears when the pointer touches the screen edge.",
+  "kinds": [
+    "bar"
+  ],
+  "entryPoints": {
+    "bar": "Bar.qml"
+  },
+  "omarchy": {
+    "clonedFrom": "omarchy.bar"
+  }
+}
